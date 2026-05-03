@@ -1,0 +1,2 @@
+﻿model,parameters,parameters_M,weight_size_MB,device,batched_variant_inference_FPS,input_size
+PatentUNet-TAFE,476099,0.4761,1.846,cpu,17.49,256x256

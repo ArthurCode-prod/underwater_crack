@@ -1,0 +1,29 @@
+{
+  "train": {
+    "count": 300,
+    "width_min": 544,
+    "width_max": 544,
+    "height_min": 384,
+    "height_max": 384,
+    "crack_ratio_mean": 0.029139658610026042,
+    "crack_ratio_std": 0.024845185139972928,
+    "crack_ratio_min": 0.002593994140625,
+    "crack_ratio_max": 0.1993560791015625
+  },
+  "test": {
+    "count": 237,
+    "width_min": 384,
+    "width_max": 544,
+    "height_min": 384,
+    "height_max": 544,
+    "crack_ratio_mean": 0.04325757247989188,
+    "crack_ratio_std": 0.03571403333096583,
+    "crack_ratio_min": 0.006866455078125,
+    "crack_ratio_max": 0.192230224609375
+  },
+  "image_size": [
+    256,
+    256
+  ],
+  "degradation_profile": "medium"
+}
